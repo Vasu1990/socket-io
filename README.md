@@ -1,7 +1,7 @@
 # socket-io
 
 for server
-run server , navigate to root run
+navigate to root run
 node app.js
 
 
